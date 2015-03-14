@@ -1,5 +1,6 @@
 funktion 1 {
 a
+master lägger in lite värden här
 b
 c
 d
