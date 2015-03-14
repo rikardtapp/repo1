@@ -1,6 +1,10 @@
 funktion 1 {
 a
+<<<<<<< HEAD
 master lägger in lite värden här
+=======
+lite annan text här
+>>>>>>> skapafunktioner
 b
 c
 d

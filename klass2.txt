@@ -1,5 +1,6 @@
 funktion 2{
 1
+lite text här
 2
 3
 4
